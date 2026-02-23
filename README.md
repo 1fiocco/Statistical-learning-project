@@ -33,7 +33,7 @@ For night curves we also tested a **log-scale fit** to avoid unrealistic negativ
 
 ## Where to look
 - **Full report (recommended):** `final_hw_report.pdf` :(https://github.com/1fiocco/Statistical-learning-project/blob/main/final_hw_report.pdf) 
-- **Scripts:** see the `scripts/` (or similarly named) folder for the full pipeline (data prep → smoothing → conformal bands). :contentReference[oaicite:9]{index=9}
+- **Scripts:** see the scripts in the folder. contentReference[oaicite:9]{index=9}
 
 ## Authors
 - Riccardo Pugliese  
