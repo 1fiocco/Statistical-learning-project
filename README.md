@@ -32,7 +32,7 @@ We implemented the method in *Lei, Rinaldo, Wasserman* (projection-based conform
 For night curves we also tested a **log-scale fit** to avoid unrealistic negative lower bounds, then transformed the bands back to bpm. :contentReference[oaicite:7]{index=7}
 
 ## Where to look
-- **Full report (recommended):** `final_hw_report.pdf` :contentReference[oaicite:8]{index=8}  
+- **Full report (recommended):** `final_hw_report.pdf` :(https://github.com/1fiocco/Statistical-learning-project/blob/main/final_hw_report.pdf) 
 - **Scripts:** see the `scripts/` (or similarly named) folder for the full pipeline (data prep → smoothing → conformal bands). :contentReference[oaicite:9]{index=9}
 
 ## Authors
