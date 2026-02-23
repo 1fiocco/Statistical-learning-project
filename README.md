@@ -36,5 +36,5 @@ For night curves we also tested a **log-scale fit** to avoid unrealistic negativ
 - **Scripts:** see the scripts in the folder.
 
 ## Authors
-- Riccardo Pugliese  
-- Leonardo Suriano  
+- Riccardo Pugliese (https://github.com/1fiocco)
+- Leonardo Suriano (https://github.com/LeoSuriano)
